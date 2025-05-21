@@ -20,7 +20,7 @@ disaggregate categoryoptioncomboname resulttarget ///
 value orglevel4name orglevel5name orglevel6name ///
 orglevel7name orglevel8name fundingagency 
 * identify variables to remove values
-	ds `keepvlist', not
+ds `keepvlist', not
 * string variables for replacing value purposes
 	tostring `r(varlist)', replace
 * identify full list again
