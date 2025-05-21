@@ -12,7 +12,7 @@
 global pathin "Desktop/Day1/Data/"
 cd $pathin
 * import csv file
-	insheet using "PEPFAR-Data-Genie-MER-2015-12-19.csv"
+insheet using "PEPFAR-Data-Genie-MER-2015-12-19.csv"
 * replace value in unnecessary columns
 * create local variable for all variables to keep
  	local keepvlist operatingunit period dataelementname ///
