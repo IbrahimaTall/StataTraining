@@ -7,7 +7,7 @@
 // Example 1: Constantly removing rows and columns to save space //
 
 /* Background:
-	I've developed an Excel visualization tool to look  mechanism level, I need to free up some space.
+	I've devel
 	To do so, I constantly need to remove data from unnessary columns
 	as well as any rows where the e */
 	
