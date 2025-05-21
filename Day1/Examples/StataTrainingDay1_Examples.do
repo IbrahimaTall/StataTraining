@@ -6,10 +6,7 @@
 
 // Example 1: Constantly removing rows and columns to save space //
 
-/* Background:
-	I've devel
-	To do so, I constantly need to remove data from unnessary columns
-	as well as any rows where the e */
+/* rows where the e */
 	
 * set directory
 	global pathin "/Users/Aaron/Desktop/StataTraining/Day1/Data/"
