@@ -12,8 +12,7 @@
 	on a quarterly basis. With lots of indicators for each country 
 	at the implementing mechanism level, I need to free up some space.
 	To do so, I constantly need to remove data from unnessary columns
-	as well as any rows where the indicator value equals zero. Automating
-	this task takes a lot less time */
+	as well as any rows where the e */
 	
 * set directory
 	global pathin "/Users/Aaron/Desktop/StataTraining/Day1/Data/"
