@@ -9,7 +9,7 @@
 /* rows where the e */
 	
 * set directory
-	global pathin "Desktop/Day1/Data/"
+global pathin "Desktop/Day1/Data/"
 	cd $pathin
 * import csv file
 	insheet using "PEPFAR-Data-Genie-MER-2015-12-19.csv"
